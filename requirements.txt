@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-pymongo
-pydantic
-python-jose[cryptography]
-passlib[bcrypt]
+fastapi==0.115.0
+uvicorn==0.30.6
+pymongo==4.10.1
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+pydantic==2.9.2
